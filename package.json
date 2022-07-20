@@ -5,7 +5,7 @@
   "main": "compare.js",
   "type": "module",
   "scripts": {
-    "compare": "node ./compare.js"
+    "compare": "node ./src/compare.js"
   },
   "keywords": [
     "html-diff",
